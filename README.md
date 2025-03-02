@@ -14,3 +14,12 @@
 
 
 
+## Yaseen El-Olemy's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseen-elolemy&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yaseen-elolemy&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-elolemy&layout=compact&theme=dark)
+
+
