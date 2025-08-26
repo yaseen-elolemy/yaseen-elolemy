@@ -1,6 +1,6 @@
 # About me
 
--   2<sup>nd</sup> Year Student at Cairo University - Faculty of Computers and Artificial Intelligence
+-   3<sup>rd</sup> Year Student at Cairo University - Faculty of Computers and Artificial Intelligence
 -   Interested in Cybersecurity, OS development, reverse engineering, malware analysis, network security and some game development
 -   Looking to collaborate on: Security research, low-level programming projects, and CTF challenges
 
