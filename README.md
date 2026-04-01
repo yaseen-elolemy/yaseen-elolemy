@@ -7,6 +7,11 @@
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaseen-elolemy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Adam-Gamil" />
+</p>
+
+
 ## Yaseen El-Olemy's GitHub Stats
 <h3 align="left"> My Tech Stack</h3>
 <p align="left">
