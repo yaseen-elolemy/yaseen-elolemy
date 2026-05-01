@@ -13,12 +13,15 @@
 
 
 ## Yaseen El-Olemy's GitHub Stats
-<h3 align="left"> My Tech Stack</h3>
-<p align="left">
-  <strong>Languages:</strong><br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Assembly-090909?style=flat-square&logo=databricks&logoColor=white" alt="assembly" height="40"/></a>
-</p>
+<table>
+  <tr>
+    <td valign="center"><strong>My Tech Stack:</strong></td>
+    <td valign="center">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/></a>
+      <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+      <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/></a>
+      <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/></a>
+      <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/-Assembly-090909?style=flat-square&logo=databricks&logoColor=white" height="40"/></a>
+    </td>
+  </tr>
+</table>
